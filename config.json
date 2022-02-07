@@ -1,6 +1,6 @@
 ﻿{
-        "ip":"Sjeisks.aternos.me",
-        "port": "47013",
+        "ip" : "jeisks.aternos.me" ,
+        "porta" : "47013" ,
         "name": "afkbot1",
         "auto-night-skip":"true"
 }
